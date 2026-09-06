@@ -1,0 +1,17 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "text": "buy some orange juice"
+    },
+    {
+      "id": "rGOM0vnkfTI",
+      "text": "go to gym"
+    },
+    {
+      "id": "XzVJtl1THo8",
+      "text": "go to market"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
